@@ -3,7 +3,7 @@
 - :hatched_chick: Имею базовые навыки в: Javascript, HTML, CSS, Git.
 - :hatched_chick: Использую: React, Node.
 - 🌱 Сейчас улучшаю навыки верстки различных страниц, а после планирую перейти к изучению TypeScript.
-- 📫 Telegram: [@evamelin](http://t-do.ru/evamelin "Telegram"), email: shkarina.evgenia@yandex.ru
+- 📫 Telegram: [@evamelin](http://t-do.ru/evamelin "Telegram")
 - :headphones: Пишу код всегда с музыкой.
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Nox94.page.id)
